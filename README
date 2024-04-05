@@ -1,6 +1,6 @@
 MAC OS
 
-Se projet a pour but d'envoyer des caractères d'un processus à un autre à l'aide des sigaux SIGUSR1 et SIGUSR2 sous forme binaire.
+Ce projet a pour but d'envoyer des caractères d'un processus à un autre à l'aide des sigaux SIGUSR1 et SIGUSR2 sous forme binaire.
 
 Plus d'info dans subject.
 
